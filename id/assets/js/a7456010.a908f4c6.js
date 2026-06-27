@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcandi_tms_docs=globalThis.webpackChunkcandi_tms_docs||[]).push([[235],{8552(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
